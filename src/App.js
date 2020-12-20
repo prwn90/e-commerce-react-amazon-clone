@@ -14,7 +14,7 @@ import { Elements } from "@stripe/react-stripe-js";
 
 //API key from Stripe
 const promise = loadStripe(
-  "pk_test_51HyZz6IW5QP7KsAHWiIlRjQhvIUGNKRrgVYjENDHE1pFVZvraqegDBxGYBc57EpfoLDVqqPwu2FkUtdbILizENg700kihpkeAA"
+  //"Your Stripe Key....."
 );
 
 function App() {
